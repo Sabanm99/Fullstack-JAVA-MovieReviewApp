@@ -1,0 +1,25 @@
+.header{
+    height: 90vh;
+    width: 100%;
+    background: linear-gradient(to right , rgb(50, 55, 134),rgba(199, 99, 99, 0.5)),url(https://th.bing.com/th/id/R.4e6053ead4a99e3273d7a06b91aace96?rik=AKlxiK2yiqL9fw&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2fc%2f7%2f3%2f1391531-film-strip-wallpaper-3840x2160-photo.jpg&ehk=VlJ%2bemPSdQUeDQ3fzCupd9ywrOOcnVIaWOJfH0CS7c4%3d&risl=&pid=ImgRaw&r=0);
+    background-size: cover;
+    color: white;
+}
+.h-100{
+    height: 100%;
+    width: 100%;
+}
+.body{
+    font-family: 'Barlow', sans-serif;
+font-family: 'Old Standard TT', serif;
+font-family: 'Orbitron', sans-serif;
+font-family: 'Palanquin', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+.btn{
+    border-radius: 10rem ! important ;
+    padding: 1.25rem 2.24rem !important;
+}
+.message{
+    background-image: linear-gradient(to top, #fad0c4 0%, #ffd1ff 100%);
+}
